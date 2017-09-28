@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
     else
       "NO, NOT SINCE 1938!"
     end
-  elsif phrase.include? "I LOVE YOU GRANDMA!"
+  elsif phrase=="I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
