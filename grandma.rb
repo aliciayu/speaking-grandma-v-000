@@ -9,7 +9,7 @@ def speak_to_grandma
 
   puts "NO, NOT SINCE 1938!"
 # NO, NOT SINCE 1938!
-elsif "I LOVE YOU GRANDMA"
+elsif 
   puts "I LOVE YOU TOO PUMPKIN!"
 end
 
