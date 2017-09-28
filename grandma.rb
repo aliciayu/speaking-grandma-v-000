@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
     "HUH?! SPEAK UP, SONNY!"
   else
     "NO, NOT SINCE 1938!"
-  elsif phrase = "I LOVE YOU GRANDMA!"
+  elsif phrase.include? "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
