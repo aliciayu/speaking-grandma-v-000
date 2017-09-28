@@ -5,6 +5,8 @@ def speak_to_grandma(phrase)
   else
     "HUH?! SPEAK UP, SONNY!"
   end
+elsif phrase == "I LOVE YOU GRANDMA!"
+  "I LOVE YOU TOO PUMPKIN!"
 end
 
 # Whatever you say to grandma, she should respond with
